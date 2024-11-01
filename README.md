@@ -2,6 +2,8 @@
 
 # Everton Tenorio
 🔗 [everton-tenorio.github.io](https://everton-tenorio.github.io) 
+📧 evttenorio@outlook.com
+
 
 ##  Experiências 💼  Work Experience
 
@@ -26,3 +28,5 @@ Ampla experiência em projetos utilizando containers **Docker**.
 
 ### Vue.js
 Utilizo **Vue.js** e **Nuxt** como as principais ferramentas de front-end.
+
+🔗 projects: [sofutebol.live](https://sofutebol.live), [preco-fipe](https://preco-fipe.vercel.app)
