@@ -2,7 +2,7 @@
 
 # Everton Tenorio
 🔗 [everton-tenorio.github.io](https://everton-tenorio.github.io) 
-📧 evttenorio@outlook.com
+<pre>📧 evttenorio@outlook.com</pre>
 
 
 ##  Experiências 💼  Work Experience
