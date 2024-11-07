@@ -13,8 +13,8 @@ Para projetos de Engenharia de dados, Desenvolvimento Web e Automação de taref
 ### API
 Experiência com **Django**, **Flask** e Express.
 
-### SQL
-Ampla experiência com **SQL** em bancos **postgreSQL**. 
+### SQL/NoSQL
+Ampla experiência com **SQL** em bancos **postgreSQL**. NoSQL utilizado em projetos acadêmicos.
 
 ### Cloud AWS e GCP
 Participei de projetos que estão utilizando **AWS** e **Google Cloud** como infraestrutura principal.
