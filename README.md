@@ -9,6 +9,7 @@
 
 ### Python
 Para projetos de Engenharia de dados, Desenvolvimento Web e Automação de tarefas/DevOps.
+Libs: Requests, BeautifulSoup, Pandas, Scrapy, Potly, etc.
 
 ### API
 Experiência com **Django**, **Flask** e Express.
