@@ -8,16 +8,16 @@
 ##  Experiências 💼  Work Experience
 
 ### Python
-Para projetos de Desenvolvimento Web, Engenharia/Análise de dados e Automação de tarefas.
+Para projetos de Engenharia de dados, Desenvolvimento Web e Automação de tarefas/DevOps.
 
 ### API
-Trabalho com **Django**, **Flask** e Express.
+Experiência com **Django**, **Flask** e Express.
 
 ### SQL
-Ampla experiência em projetos com **SQL** em bancos **postgreSQL**. 
+Ampla experiência com **SQL** em bancos **postgreSQL**. 
 
 ### Cloud AWS e GCP
-Contribui com projetos que estão utilizando a **AWS** e **Google Cloud** como infraestrutura principal.
+Participei de projetos que estão utilizando **AWS** e **Google Cloud** como infraestrutura principal.
 
 ### Orquestração de fluxos - Airflow
 Utilizo Airflow para orquestrar as rotinas que serão executadas em projetos que 
@@ -27,6 +27,6 @@ lidam com automação, extração, transformação e carregamento de dados (**ET
 Ampla experiência em projetos utilizando containers **Docker**.
 
 ### Vue.js
-Utilizo **Vue.js** e **Nuxt** como as principais ferramentas de front-end.
+**Vue.js** e **Nuxt** como as principais ferramentas de front-end.
 
 🔗 projects: [sofutebol.live](https://sofutebol.live), [preco-fipe](https://preco-fipe.vercel.app)
